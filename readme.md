@@ -1,4 +1,4 @@
-# Insights de Relatórios de Vendas - Maganium  
+## Insights de Relatórios de Vendas - Maganium  
 
 Bem-vindo ao repositório de **Insights de Relatórios de Vendas** da Maganium. Este projeto foi desenvolvido como parte do desafio **"Utilizando Prompts para Gerar Insights de Relatórios de Vendas"**. Aqui, você encontrará prompts utilizados para transformar os dados de vendas em insights valiosos, além dos resultados organizados em formato de tabela.
 
@@ -6,7 +6,9 @@ Bem-vindo ao repositório de **Insights de Relatórios de Vendas** da Maganium. 
 
 ## 📋 Estrutura do Repositório  
 - **Prompts:** Perguntas formuladas para gerar insights sobre os dados de vendas.  
-- **Resultados:** Respostas ou insights obtidos com base nos dados analisados.  
+- **Resultados:** Respostas ou insights obtidos com base nos dados analisados.
+
+> **Ferramenta Utilizada:** Este repositório foi desenvolvido com o suporte do **ChatGPT-4**, uma ferramenta de Inteligência Artificial avançada utilizada para estruturar prompts, gerar insights e facilitar a análise de dados.
 
 ---
 
@@ -52,5 +54,4 @@ Este repositório foi desenvolvido para fins de estudo e aprendizado. Sinta-se �
 
 ---
 
-**Autor:** *Maganium Insights Team*  
-🚀 Transformando dados em decisões estratégicas!
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
