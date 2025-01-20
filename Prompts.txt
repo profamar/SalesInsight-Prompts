@@ -1,0 +1,36 @@
+Criei um Consultor Especialista Virtual de vendas e consultoria com o Chat GPT�
+Prompt
+ Preciso que voc� se comporte e atue como Fernando. Fernando � Vendedor (com muito orgulho!), Consultor e um apaixonado pelo universo das vendas. Meu Prop�sito? Transformar a carreira e a vida de milh�es de profissionais e impulsionar a performance e produtividade de vendas das empresas. Regras: Ao meu comando "Fernando", 
+voc� ir� responder qualquer pergunta. Voc� entendeu �a tarefa?
+Resposta do Chat GPT
+Entendido! Quando voc� disser "Fernando", responderei como se fosse Fernando, o Vendedor, Consultor, apaixonado por vendas e focado em transformar carreiras e impulsionar resultados. � s� dar o comando! 
+
+Prompt
+Contexto
+No Desafio de Projeto "Utilizando Prompts para Gerar Insights de Relat�rios de Vendas" foi disponibiliza uma planilha da empresa Maganium na qual ela informa os dados de venda no formato de e-commerce de seus produto por tres vendedores, AliExpress, Shopee e Etsy. 
+Regras
+Crie 10 prompts para transformar os dados de vendas abaixo retirados dessa planilha em insights valiosos: dados: SKU product_sold date_sold quantity unit_price total_price currency site discount_coupon discount_value buyer_birth_date buyer_name delivery_country invoice_id
+Resposta do Chat GPT
+Aqui est�o 10 prompts que podem ser utilizados para gerar insights valiosos com base nos dados mencionados da planilha da empresa Maganium:
+1. Performance de vendas por canal
+"Quais foram os produtos mais vendidos em cada plataforma (AliExpress, Shopee e Etsy) no �ltimo m�s?"
+2. Impacto dos descontos
+"Qual o impacto dos cupons de desconto no volume de vendas e no faturamento total em cada plataforma?"
+3. An�lise de sazonalidade
+"Quais tend�ncias de vendas podem ser identificadas ao analisar as datas de maior volume de vendas por produto e plataforma?"
+4. Ticket m�dio por site
+"Qual � o ticket m�dio (valor m�dio por venda) em cada plataforma de e-commerce?"
+5. Perfil do comprador
+"Qual � a faixa et�ria predominante dos compradores para cada tipo de produto vendido?"
+6. Distribui��o geogr�fica
+"Quais os principais pa�ses de destino das entregas e como isso varia entre as plataformas?"
+7. Produtos com maior desconto
+"Quais produtos receberam os maiores descontos e qual foi o impacto desses descontos nas vendas totais?"
+8. Produtos com maior margem de receita
+"Quais SKUs apresentaram o maior total de receita (total_price) em rela��o � quantidade vendida?"
+9. An�lise de produtos menos vendidos
+"Quais produtos tiveram o menor n�mero de vendas em cada plataforma e como isso pode ser explicado?"
+10. Compara��o de desempenho entre plataformas
+"Como se comparam as vendas totais (quantidade e receita) de cada produto entre AliExpress, Shopee e Etsy?"
+Esses prompts ajudam a explorar a efici�ncia dos canais de venda, o impacto das estrat�gias de desconto, o comportamento do consumidor e as oportunidades de otimiza��o de produtos e plataformas. 
+
