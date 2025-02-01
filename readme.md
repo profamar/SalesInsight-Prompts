@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de **Insights de Relatórios de Vendas** da Maganium. Este projeto foi desenvolvido como parte do desafio **"Utilizando Prompts para Gerar Insights de Relatórios de Vendas"**. Aqui, você encontrará prompts utilizados para transformar os dados de vendas em insights valiosos, além dos resultados organizados em formato de tabela.
 
-![Insights de Relatórios de Vendas da Maganium](caminho/para/sua/imagem.png)
+![Insights de Relatórios de Vendas da Maganium](https://github.com/profamar/SalesInsight-Prompts/blob/master/Insights%20de%20Relat%C3%B3rios%20de%20Vendas%20da%20Maganium.png)
 
 
 ---
